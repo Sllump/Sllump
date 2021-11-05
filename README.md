@@ -5,7 +5,7 @@
 - 📗 Experienced in HMTL and CSS
 - 📗 Experienced in PHP and SQL
 - 📘 Working on LUA and Javascript for FiveM
-- 📕 Want to be decent at C and C++
+- 📕 Want to learn at C and C++
 - 📕 Want to learn Python
 
 ### My Socials:
